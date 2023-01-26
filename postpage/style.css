@@ -23,8 +23,9 @@ body {
 }
 
 img {
-  height: 30vh;
-  width: 24vw;
+  height: 28vh;
+  width: 18vw;
+  margin-left: 1vw;
   margin-top: 5vh;
   position: relative;
   top: 0;
